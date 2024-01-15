@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+}
+.game{
+    text-align: center;
+    padding-left: 10px;
+}
+
+p{
+    color: bisque;
+    text-align: center;
+}
